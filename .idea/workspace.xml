@@ -26,6 +26,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -45,5 +46,13 @@
       <screen x="0" y="0" width="1632" height="916" />
     </state>
     <state x="1085" y="374" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1632.916@0.0.1632.916" timestamp="1585532530631" />
+    <state x="913" y="212" key="FileChooserDialogImpl" timestamp="1585535598389">
+      <screen x="0" y="0" width="1632" height="916" />
+    </state>
+    <state x="913" y="212" key="FileChooserDialogImpl/0.0.1632.916@0.0.1632.916" timestamp="1585535598389" />
+    <state x="634" y="89" key="SettingsEditor" timestamp="1585535613968">
+      <screen x="0" y="0" width="1632" height="916" />
+    </state>
+    <state x="634" y="89" key="SettingsEditor/0.0.1632.916@0.0.1632.916" timestamp="1585535613968" />
   </component>
 </project>
